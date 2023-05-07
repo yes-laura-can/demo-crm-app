@@ -138,6 +138,7 @@
     </dependencies>
 
     <build>
+        <finalName>Laura-Demo-CRM-App</finalName>
         <defaultGoal>spring-boot:run</defaultGoal>
         <plugins>
             <plugin>
@@ -183,6 +184,7 @@
                         </exclusion>
                     </exclusions>
                 </dependency>
+
             </dependencies>
             <build>
                 <plugins>
